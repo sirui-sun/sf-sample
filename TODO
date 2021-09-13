@@ -1,0 +1,5 @@
+TODO
+- write script which pulls the latest from git and runs publisher
+- update cronjob to automatically run that script
+- update the existing disk image
+- write creator to take a list of config files and create instances there
