@@ -1,5 +1,5 @@
 name,zone,machineShape,GPU,SSD
-sf-worker-001,us-east1-a,n1-standard-2,p4,none
-sf-worker-002,us-east1-a,n1-standard-2,t4,none
+sf-worker-001,us-east1-a,n1-standard-2,nvidia-tesla-p4,none
+sf-worker-002,us-east1-a,n1-standard-2,nvidia-tesla-t4,none
 sf-worker-003,us-east1-a,n2-standard-2,none,1
 sf-worker-004,us-east4-c,n2-standard-2,none,none
